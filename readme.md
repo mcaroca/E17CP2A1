@@ -6,7 +6,7 @@ El objeto de la siguiente actividad es modelar, a partir de un enunciado, los da
 ## Ejercicio 1:
 
 - Realizar el modelo físico de datos para un sistema de gestión de encomiendas:
-    - Un conductor puede poseer varios camiones.
+    - Una empresa puede poseer varios camiones.
     - Un camión pertenece a un conductor.
     - Un conductor puede realizar varios envíos.
     - Un envío lleva varios paquetes.
